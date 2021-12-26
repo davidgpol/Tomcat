@@ -1,0 +1,1 @@
+JAVA_OPTS="-DLOGS=/var/log/logs/SendMail"
